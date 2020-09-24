@@ -1,2 +1,2 @@
-# buffer-overflow
-Buffer Overflow Labs
+# repo-template
+This is a template repository
