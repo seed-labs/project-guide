@@ -12,9 +12,6 @@ We've put together the following guidelines to help you figure out where you can
 0. [Style guide](#style-guide)
 0. [Community](#community)
 
-
-## Project objectives
-
+## Types of Contributions We're Looking For
 
 
-## What to contribute
