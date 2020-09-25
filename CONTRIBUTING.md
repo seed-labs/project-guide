@@ -52,6 +52,9 @@ container version for most of the existing labs.
  Internet infrastructure. Basically, we got an Internet inside a box. We have worked
  on this project for one and an half years, most of the time spent on the design. We will soon open source this project when we release the first version. 
 
+ - [SEED-CTF](under-construction.md): We are building a CTF platform, so instructors can easily turn their  class into a CTF competition. We have 
+ been experimenting with this for several years. We will soon open source all our code. 
+
  - Translation-xy: For each translation, we will create a repository. ```xy``` 
  represents the languages. We are looking for help for any language other than 
  English. See the [license information](LICENSE.md) 
