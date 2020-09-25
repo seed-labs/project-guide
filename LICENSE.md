@@ -13,7 +13,8 @@ This license lets others remix, adapt, and build upon your work non-commercially
 
 > Copyright &copy; 2020 by Author's Name.<br>
 This work is licensed under a Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International License. 
+Attribution-NonCommercial-ShareAlike 4.0 International License: 
+http://creativecommons.org/licenses/by-nc-sa/4.0/. 
 If you remix, transform, or build upon the material,
 this copyright notice must be left intact, or reproduced in a way 
 that is reasonable to the medium in which the work is being re-published.
@@ -29,8 +30,9 @@ Here is a sample of the license statement for the translation:
 
 >Translated by John Smith.<br>
 This is a French translation of "XYZ Lab" &copy; 2020 by Jane Doe,
-used under a Creative Commons Attribution-NonCommercial-ShareAlike
-license: http://creativecommons.org/licenses/by-sa/3.0/. This French
+used under a Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License:
+http://creativecommons.org/licenses/by-nc-sa/4.0/. This French
 translation is licensed under the same license. 
 
 ## License for Code
