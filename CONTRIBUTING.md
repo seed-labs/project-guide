@@ -1,7 +1,6 @@
 # Contributing to SEED Labs
 
 Thanks for checking out the SEED Labs projects! We're excited to hear and learn from you. Your experiences will benefit the cybersecurity education around the world. 
-
 We've put together the following guidelines to help you figure out where you can best be helpful.
 
 ## Table of Contents
@@ -28,6 +27,10 @@ environment. This is the future direction for the SEED labs.
 - **Translation**. Translating the SEED labs to other languages.
 
 - **Website**. Maintaining the website, designing artwork (e.g. icons) for each lab.
+
+- **Training and support**. Training instructors and provide support to help instructors around the world.  
+
+- **Fund raising**. Raising fund to cover the operation cost.
 
 
 ## How to Contribute
