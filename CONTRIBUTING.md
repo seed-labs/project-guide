@@ -1,17 +1,58 @@
 # Contributing to SEED Labs
 
-Thanks for checking out the SEED Labs project! We're excited to hear and learn from you. Your experiences will benefit others ...
+Thanks for checking out the SEED Labs projects! We're excited to hear and learn from you. Your experiences will benefit the cybersecurity education around the world. 
 
 We've put together the following guidelines to help you figure out where you can best be helpful.
 
 ## Table of Contents
 
 0. [Types of contributions we're looking for](#types-of-contributions-were-looking-for)
-0. [Ground rules & expectations](#ground-rules--expectations)
 0. [How to contribute](#how-to-contribute)
 0. [Community](#community)
 
 ## Types of Contributions We're Looking For
+
+- **Improvement**. Improve the existing SEED labs. One of the improvement we want is to transition some of the SEED labs from the multi-VM lab environment to VM + multi-container
+environment. This is the future direction for the SEED labs. 
+
+- **New labs**. Developing new SEED labs in the areas that are not covered by the current SEED labs, such as forensics, reverse engineering, intrusion detection, Blockchain, AI for security, etc. We will set up guidelines, requirements and quality control for new labs. Each new lab is a new product. 
+
+- **VM Building**. Automate the process to build SEED VMs for various platform, VirtualBox, VMware, Cloud, etc.
+ 
+- **CTFizing SEED labs**. Turning some of the SEED labs into CTF (Capture the Flag) style. We have been experimenting with this idea for a few years, and that is a good direction to pursue. We need to develop a CTF platform for SEED labs.  
+
+- **Internet Simulator**. Developing the Internet Simulator for cybersecurity education. This is a separate project that we have been working on for almost 2 years, and when we release the first version, we will open-source it, so everybody is welcome to join. 
+
+- **Other Simulators**. We have several types of simulators in mind, including simulator for IoT networks, vehicle network (CAN bus), Blockchain, smart grid, etc. The purposes for these simulators are cybersecurity education. 
+
+- **Translation**. Translating the SEED labs to other languages.
+
+- **Website**. Maintaining the website, designing artwork (e.g. icons) for each lab.
+
+
+## How to Contribute
+
+We have several projects in the SEEDLabs organization, each of them is in
+a different repository. You can choose to work on these existing projects, or you can create new project (such as a translation project). Here are the existing projects:
+
+- [SEED Labs](url): This is where the original SEED labs documents are stored. 
+You can help improve these labs or propose new labs. We are also developing the 
+container version for most of the existing labs. 
+
+- [SEED VMs](url): In this project, we would like to automate the process to
+ build SEED VMs for VirtualBox, VMWare, AWS cloud, Azure cloud, etc. 
+ Cyber ranges and cloud operators can use the code to build their the VM images
+ for their own environment.  
+ 
+ - Translation-xy: For each translation, we will create a repository. ```xy``` 
+ represents the languages. We are looking for help for any language other than 
+ English. See the [license information](LICENSE.md) 
+ related to the translated work. Currently, we don't have a translation project
+ yet, so you can create the first one!
+
+**Get started**: If you are interested in any of these projects, you can start
+creating a fork from them, and check the issues in those particular project. They have detailed instructions on what are needed. If you are not sure or you don't know whether a particular task has been taken by others, create an issue,
+and we will respond to you.
 
 
 ## Community
