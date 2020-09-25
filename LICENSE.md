@@ -22,9 +22,10 @@ that is reasonable to the medium in which the work is being re-published.
 ## Copyright on Translation
 
 Translation is considered as a derivative of the original work, so the 
-translator does not own the copyright of the work. Because it is 
-a derivative, the Creative Commons license applies to the translation. 
-work. Here is a sample of the license statement for the translation:
+translator does not own the copyright of the work. They can be the author,
+but without owning the copyright of the contents, and the 
+translation work is subject to the license of the original work. 
+Here is a sample of the license statement for the translation:
 
 >Translated by John Smith.<br>
 This is a French translation of "XYZ Lab" &copy; 2020 by Jane Doe,
