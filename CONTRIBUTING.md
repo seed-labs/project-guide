@@ -55,16 +55,21 @@ container version for most of the existing labs.
  - [SEED-CTF](under-construction.md): We are building a CTF platform, so instructors can easily turn their  class into a CTF competition. We have 
  been experimenting with this for several years. We will soon open source all our code. 
 
- - Translation-xy: For each translation, we will create a repository. ```xy``` 
- represents the languages. We are looking for help for any language other than 
- English. See the [license information](LICENSE.md) 
+ - Translation-xy: For each translation, we will create a repository. Here,
+ ```xy``` represents the languages. We are looking for help for any language 
+ other than English. See the [license information](LICENSE.md) 
  related to the translated work. Currently, we don't have a translation project
  yet, so you can create the first one!
 
+ - Feel free to propose new projects that fit into the vision of the SEED project.
+ Treat this SEEDlabs organization as a big community, where we work on the 
+ same goal: *developing hands-on labs to benefit the cybersecurity education 
+ around the world*.
+
 
 **Get started**: If you are interested in any of these projects, you can start
-creating a fork from them, and check the issues in those particular project. They have detailed instructions on what are needed. If you are not sure or you don't know whether a particular task has been taken by others, create an issue,
-and we will respond to you.
+creating a fork from them, and check the issues in those particular project. They have detailed instructions on what are needed. If you are not sure or you don't know whether a particular task has been taken by others, create an issue in those
+repos, and some of us will respond to you.
 
 
 ## Community
