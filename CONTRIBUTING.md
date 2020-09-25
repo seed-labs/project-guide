@@ -20,9 +20,8 @@ environment. This is the future direction for the SEED labs.
  
 - **CTFizing SEED labs**. Turning some of the SEED labs into CTF (Capture the Flag) style. We have been experimenting with this idea for a few years, and that is a good direction to pursue. We need to develop a CTF platform for SEED labs.  
 
-- **Internet Simulator**. Developing the Internet Simulator for cybersecurity education. This is a separate project that we have been working on for almost 2 years, and when we release the first version, we will open-source it, so everybody is welcome to join. 
-
-- **Other Simulators**. We have several types of simulators in mind, including simulator for IoT networks, vehicle network (CAN bus), Blockchain, smart grid, etc. The purposes for these simulators are cybersecurity education. 
+- **Simulators**. Developing various simulators that can be used for 
+*cybersecurity education*. We have several types of simulators in mind, including Internet Simulator and simulators for IoT networks, vehicle network (CAN bus), Blockchain, smart grid, etc. Each of these simulators will be a standalone project.
 
 - **Translation**. Translating the SEED labs to other languages.
 
@@ -38,11 +37,11 @@ environment. This is the future direction for the SEED labs.
 We have several projects in the SEEDLabs organization, each of them is in
 a different repository. You can choose to work on these existing projects, or you can create new project (such as a translation project). Here are the existing projects:
 
-- [SEED Labs](url): This is where the original SEED labs documents are stored. 
+- [SEED Labs](under-construction.md): This is where the original SEED labs documents are stored. 
 You can help improve these labs or propose new labs. We are also developing the 
 container version for most of the existing labs. 
 
-- [SEED VMs](url): In this project, we would like to automate the process to
+- [SEED VMs](under-construction.md): In this project, we would like to automate the process to
  build SEED VMs for VirtualBox, VMWare, AWS cloud, Azure cloud, etc. 
  Cyber ranges and cloud operators can use the code to build their the VM images
  for their own environment.  
@@ -52,6 +51,13 @@ container version for most of the existing labs.
  English. See the [license information](LICENSE.md) 
  related to the translated work. Currently, we don't have a translation project
  yet, so you can create the first one!
+
+ - [Internet Simulator](under-construction.md): We are building an Internet Simulator
+ for Cybersecurity education. In this simulator, we have BGP routing, Autonomous Systems,
+ Internet Exchange, DNS, etc, including all the essential pieces of the 
+ Internet infrastructure. Basically, we got an Internet inside a box. We have worked
+ on this project for one and an half years, most of the time spent on the design. We will soon open source this project when we release the first version. 
+
 
 **Get started**: If you are interested in any of these projects, you can start
 creating a fork from them, and check the issues in those particular project. They have detailed instructions on what are needed. If you are not sure or you don't know whether a particular task has been taken by others, create an issue,
