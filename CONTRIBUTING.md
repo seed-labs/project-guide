@@ -62,9 +62,9 @@ container version for most of the existing labs.
  yet, so you can create the first one!
 
  - Feel free to propose new projects that fit into the vision of the SEED project.
- Treat this SEEDlabs organization as a big community, where we work on the 
- same goal: *developing hands-on labs to benefit the cybersecurity education 
- around the world*.
+ Treat this SEEDlabs organization as a big community, where we work together 
+ on the same goal: *developing hands-on labs to benefit 
+ the cybersecurity education around the world*.
 
 
 **Get started**: If you are interested in any of these projects, you can start
