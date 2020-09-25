@@ -46,17 +46,17 @@ container version for most of the existing labs.
  Cyber ranges and cloud operators can use the code to build their the VM images
  for their own environment.  
  
- - Translation-xy: For each translation, we will create a repository. ```xy``` 
- represents the languages. We are looking for help for any language other than 
- English. See the [license information](LICENSE.md) 
- related to the translated work. Currently, we don't have a translation project
- yet, so you can create the first one!
-
  - [Internet Simulator](under-construction.md): We are building an Internet Simulator
  for Cybersecurity education. In this simulator, we have BGP routing, Autonomous Systems,
  Internet Exchange, DNS, etc, including all the essential pieces of the 
  Internet infrastructure. Basically, we got an Internet inside a box. We have worked
  on this project for one and an half years, most of the time spent on the design. We will soon open source this project when we release the first version. 
+
+ - Translation-xy: For each translation, we will create a repository. ```xy``` 
+ represents the languages. We are looking for help for any language other than 
+ English. See the [license information](LICENSE.md) 
+ related to the translated work. Currently, we don't have a translation project
+ yet, so you can create the first one!
 
 
 **Get started**: If you are interested in any of these projects, you can start
