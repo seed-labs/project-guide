@@ -27,13 +27,11 @@ been developing. This ```seed-labs``` Github organization is created as a home t
 ## Vision
 
 Learning by doing is essential for education. 
-Our vision is to develop hands-on labs that help
-achieve learning-by-doing in the cybersecurity education around the world. 
-These include well-designed lab exercises and the platform 
-for these labs. These labs and platforms will be provided to the 
-entire world, free of charges for non-commercial uses.  
-
-
+Our vision is to develop hands-on labs that can help achieve
+learning by doing in the cybersecurity education around the world. 
+These include well-designed lab exercises, as well as the 
+platforms for these labs. These labs and platforms are 
+open source. 
 
 
 ## Contributing
