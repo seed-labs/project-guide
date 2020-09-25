@@ -1,4 +1,5 @@
 # Contributing to SEED Labs
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Thanks for checking out the SEED Labs projects! We're excited to hear and learn from you. Your experiences will benefit the cybersecurity education around the world. 
 We've put together the following guidelines to help you figure out where you can best be helpful.

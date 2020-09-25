@@ -1,8 +1,7 @@
 # License 
-
-## License
-
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+
+## License 
 
 All the SEED labs and materials will use the Creative Commons
 Attribution-NonCommercial-ShareAlike license. 
