@@ -6,9 +6,9 @@ We've put together the following guidelines to help you figure out where you can
 
 ## Table of Contents
 
-0. [Types of contributions we're looking for](#types-of-contributions-were-looking-for)
-0. [How to contribute](#how-to-contribute)
-0. [Community](#community)
+1. [Types of contributions we're looking for](#types-of-contributions-were-looking-for)
+1. [How to contribute](#how-to-contribute)
+1. [Community](#community)
 
 ## Types of Contributions We're Looking For
 
@@ -38,7 +38,7 @@ environment. This is the future direction for the SEED labs.
 We have several projects in the SEEDLabs organization, each of them is in
 a different repository. You can choose to work on these existing projects, or you can create new project (such as a translation project). Here are the existing projects:
 
-- [SEED Labs](under-construction.md): This is where the original SEED labs documents are stored. 
+- [SEED Labs](https://github.com/seed-labs/seed-labs): This is where the original SEED labs documents are stored. 
 You can help improve these labs or propose new labs. We are also developing the 
 container version for most of the existing labs. 
 
