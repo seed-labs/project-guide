@@ -56,20 +56,23 @@ container version for most of the existing labs.
  - [SEED-CTF](under-construction.md): We are building a CTF platform, so instructors can easily turn their  class into a CTF competition. We have 
  been experimenting with this for several years. We will soon open source all our code. 
 
- - [Chinese Translation](https://github.com/seed-labs/seedlabs-chinese):
-   This is the Chinese translation led by a group of professors in China.
-   Contributors are still needed.  
-
- - [Spanish Translation](https://github.com/seed-labs/seedlabs-spanish):
-   This is the Spanish translation project. Contributors are still needed.
-
- - Other languages: We are looking for help to translate the SEED 
-   labs to other languages. See the [license information](LICENSE.md) related to the translated work. 
+ - **Translation**: We are looking for help to translate the SEED 
+   labs to different languages. See the [license information](LICENSE.md)
+   related to the translated work. 
    You don't need to commit to translate all the documents. The goal
    is to find a group of people who can do this together, so each person
    only needs to translate one or a few labs. 
 
- - Feel free to propose new projects that fit into the vision of the SEED project.
+   - [Chinese Translation](https://github.com/seed-labs/seedlabs-chinese):
+     This is the Chinese translation led by a group of professors in China.
+     Contributors are still needed.  
+
+   - [Spanish Translation](https://github.com/seed-labs/seedlabs-spanish):
+     This is the Spanish translation project. Contributors are still needed.
+
+   - Other languages: Help for other languages are needed.
+
+ - **New Project Proposal**: Feel free to propose new projects that fit into the vision of the SEED project.
  Treat this SEEDlabs organization as a big community, where we work together 
  on the same goal: *developing hands-on labs to benefit 
  the cybersecurity education around the world*.
