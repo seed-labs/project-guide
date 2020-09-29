@@ -42,8 +42,9 @@ a different repository. You can choose to work on these existing projects, or yo
 You can help improve these labs or propose new labs. We are also developing the 
 container version for most of the existing labs. 
 
-- [SEED VMs](under-construction.md): In this project, we would like to automate the process to
- build SEED VMs for VirtualBox, VMWare, AWS cloud, Azure cloud, etc. 
+- [SEED VMs](https://github.com/seed-labs/seed-labs/tree/master/lab-setup): This is part of the SEED Labs project, 
+we would like to automate the process to
+build SEED VMs for VirtualBox, VMWare, AWS cloud, Azure cloud, etc. 
  Cyber ranges and cloud operators can use the code to build their the VM images
  for their own environment.  
  
@@ -69,6 +70,10 @@ container version for most of the existing labs.
 
    - [Spanish Translation](https://github.com/seed-labs/seedlabs-spanish):
      This is the Spanish translation project. Contributors are still needed.
+
+   - [Brazilian Portuguese Translation](https://github.com/seed-labs/seedlabs-bp):
+     This is the Brazilian Portuguese translation project. 
+     Contributors are still needed.
 
    - Other languages: Help for other languages are needed.
 
