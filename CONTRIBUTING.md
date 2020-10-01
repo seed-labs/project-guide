@@ -64,17 +64,21 @@ build SEED VMs for VirtualBox, VMWare, AWS cloud, Azure cloud, etc.
    is to find a group of people who can do this together, so each person
    only needs to translate one or a few labs. 
 
+   - [Brazilian Portuguese Translation](https://github.com/seed-labs/seedlabs-bp):
+     This is the Brazilian Portuguese translation project. 
+     Contributors are still needed.
+     
    - [Chinese Translation](https://github.com/seed-labs/seedlabs-chinese):
      This is the Chinese translation led by a group of professors in China.
      Contributors are still needed.  
 
+   - [French Translation](https://github.com/seed-labs/seedlabs-french):
+     This is the French translation project. 
+     Contributors are still needed.
+     
    - [Spanish Translation](https://github.com/seed-labs/seedlabs-spanish):
      This is the Spanish translation project. Contributors are still needed.
-
-   - [Brazilian Portuguese Translation](https://github.com/seed-labs/seedlabs-bp):
-     This is the Brazilian Portuguese translation project. 
-     Contributors are still needed.
-
+     
    - Other languages: Help for other languages are needed.
 
  - **New Project Proposal**: Feel free to propose new projects that fit into the vision of the SEED project.
